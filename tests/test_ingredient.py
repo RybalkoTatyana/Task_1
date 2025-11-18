@@ -1,6 +1,6 @@
 import pytest
 from praktikum.ingredient import Ingredient
-from test_data import Data
+from data import Data
 
 
 @pytest.mark.parametrize("item", Data.INGREDIENTS)

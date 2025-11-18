@@ -4,7 +4,7 @@ from unittest.mock import Mock
 from praktikum.bun import Bun
 from praktikum.burger import Burger
 from praktikum import ingredient_types
-from test_data import Data
+from data import Data
 from praktikum.database import Database
 
 @pytest.fixture

@@ -1,4 +1,4 @@
-from test_data import Data
+from data import Data
 
 class TestDatabase:
 

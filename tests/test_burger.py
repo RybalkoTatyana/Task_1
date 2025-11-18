@@ -1,6 +1,6 @@
 import pytest
 from praktikum.burger import Burger
-from test_data import Data
+from data import Data
 from praktikum import ingredient_types
 
 class TestBurger:
